@@ -15,7 +15,5 @@ The datasets used in this work can be downloaded from the following public sourc
 
 ## Usage
 
-After preparing the dataset, run the project on Linux using:
-
 ```bash
 python run.py --dataset muufl --device cuda:0
